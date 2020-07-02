@@ -1192,6 +1192,27 @@ section.lazy-placeholder:after {
   border-radius: 50%;
   content: '✓';
 }
+.cid-s3AeLXVOQm {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s3AeLXVOQm .title {
+  margin-bottom: 2rem;
+}
+.cid-s3AeLXVOQm .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s3AeLXVOQm a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-s3AeLXVOQm a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s3AeLXVOQm textarea.form-control {
+  min-height: 188px;
+}
 .cid-rV0D3ajFwL {
   padding-top: 0px;
   padding-bottom: 45px;
